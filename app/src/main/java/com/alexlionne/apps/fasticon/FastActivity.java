@@ -84,7 +84,7 @@ public class FastActivity extends AppCompatActivity {
                     File file_bitmap = new File(filePath);
 
 
-                    if (file_extn.equals("html")) {
+                    if (file_extn.equals("svg")) {
 
 
                         if (Build.VERSION.SDK_INT >= 21) {
